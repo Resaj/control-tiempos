@@ -1,0 +1,37 @@
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\bin\Debug\Control de tiempos.exe
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\bin\Debug\Control de tiempos.pdb
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ControlDeTiempos.resources
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.Properties.Resources.resources
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control de tiempos.exe
+C:\Documents and Settings\Ruben\mis documentos\visual studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control de tiempos.pdb
+C:\Documents and Settings\Ruben\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.AcercaDe.resources
+C:\Documents and Settings\Ruben\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.BorrarDatos.resources
+C:\Documents and Settings\Ruben\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.Velocidad.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control de tiempos.exe
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control de tiempos.pdb
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\bin\Debug\Control de tiempos.exe
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\bin\Debug\Control de tiempos.pdb
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.AcercaDe.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.BorrarDatos.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ControlDeTiempos.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.Properties.Resources.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ComprobarPuerto.resources
+C:\Documents and Settings\Rubén\Mis documentos\Visual Studio 2010\Projects\Control de tiempos\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ComprobarTx.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control de tiempos.exe
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control de tiempos.pdb
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\bin\Debug\Control de tiempos.exe
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\bin\Debug\Control de tiempos.pdb
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control de tiempos.csprojResolveAssemblyReference.cache
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.AcercaDe.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.BorrarDatos.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ComprobarTx.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ControlDeTiempos.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.ComprobarPuerto.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control_de_tiempos.Properties.Resources.resources
+C:\Users\Rubén\Desktop\Control de tiempos\Interfaz Visual C#\Control de tiempos\obj\x86\Debug\Control de tiempos.csproj.GenerateResource.Cache
