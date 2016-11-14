@@ -10,6 +10,9 @@ Están controlados por un dsPIC30F4012, programados con MPLAB y comunican con el
 <img src="images/Interfaz.jpg" width="500" align = "center">
 </p>
 
+## Autor
+[Rubén Espino San José](https://github.com/Resaj)
+
 ## License
 <p align="center">
 <img src="license/by-sa.png" align = "center">
